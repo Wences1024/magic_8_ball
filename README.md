@@ -62,4 +62,4 @@ Ask your question: exit
 - The answers are pre-defined and categorized into 3 types to mimic the behavior of a real Magic 8 Ball.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
